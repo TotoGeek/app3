@@ -7,7 +7,7 @@ version = "1.0.0">
 <name>JQuery</name>
 
 <description>
-Aplicacion que describe el funcionamiento de JQueryMobile
+Aplicacion que describe el funcionamiento de PhoneGap
 </description>
 
 <author href="https://example.com" email="you@example.com">
